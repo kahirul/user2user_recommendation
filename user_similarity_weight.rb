@@ -35,4 +35,4 @@ class UserSimilarityWeight
   end
 end
 
-UserSimilarityWeight.build_similarity_weight
+#UserSimilarityWeight.build_similarity_weight
